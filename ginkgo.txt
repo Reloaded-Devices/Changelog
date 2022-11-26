@@ -1,0 +1,24 @@
+Device Specific Changelog
+
+Build type: Monthly
+Brand: Xiaomi
+Device: Redmi Note 8/8T (ginkgo/willow)
+Device maintainer: Aryaman Srivastava (@Aryaman895)
+
+
+===== Reloaded-OS-13-November-2022 =====
+
+Changelog :
+
+* Initial A13 Build.
+* 48mp works in MiuiCamera
+* NFC Works for Willow Users.
+
+Credits :
+
+* Thanks @ghostrider_reborn my dude for all his love & support to Reloaded OS.
+* Also big thanks @madmax for everything he did for Reloaded OS
+* Thanks to @ghostrider_reborn @Pascaoto for trees
+* My lovely testers @xterkrs @purplr @bmark240 @henry_markle @mikefrag for testing it
+
+========================================

@@ -1,0 +1,20 @@
+Device Specific Changelog
+
+Build type: Monthly
+Brand: Xiaomi
+Device: Poco F4/Redmi K40S (munch)
+Device maintainer: Aryaman Srivastava (@Aryaman895)
+
+
+===== Reloaded-OS-18-November-2022 =====
+
+Changelog :
+
+* Initial Build
+
+Credits :
+
+* Thanks to @madmax7896 for dt and all the support
+* Thanks to @khNzu01 for testing it
+
+========================================

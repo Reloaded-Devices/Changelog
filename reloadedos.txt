@@ -1,0 +1,23 @@
+Source Changelog
+
+Security Patch :- 05-10-2022
+
+
+===== Reloaded-OS-28-November-2022 =====
+
+Changelog :
+
+* Implemented Face Unlock.
+* Added App Lock.
+* Added Higher FPS Toggle (rewritten from scratch, thanks to @ghostrider_reborn).
+* Fixed black theme bug.
+* Moved Force peak refresh rate to Display Settings.
+* Fixed Lock Screen Clock font issue.
+* Added Burn in protection for Amoled Display Panel devices.
+* Fixed ripple animation issue.
+
+===== Reloaded-OS-13-November-2022 =====
+
+Changelog :
+
+* Initial A13 Source.

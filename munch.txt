@@ -5,6 +5,19 @@ Brand: Xiaomi
 Device: Poco F4/Redmi K40S (munch)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
+===== Reloaded-OS-28-November-2022 =====
+
+Changelog :
+
+* Added MiuiCamera from MIUI A13 (everything works)
+* Addressed some denials
+* Fixed rounded corners
+* Fixed fp animation
+* Fixed punch hole cutout 
+* Improved statusbar paddings
+* Many Performance tweaks
+* Misc fixes and improvements
+
 
 ===== Reloaded-OS-18-November-2022 =====
 

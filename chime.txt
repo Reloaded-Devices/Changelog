@@ -1,0 +1,19 @@
+Device Specific Changelog
+
+Build type: Monthly
+Brand: Xiaomi
+Device: POCO M3/Redmi 9T (chime)
+Device maintainer: Vayruz Rafli (@frostg012)
+
+
+===== Reloaded-OS-27-November-2022 =====
+
+Changelog :
+
+* Initial release
+
+Credits :
+
+* All my tester for testing my ReloadedOS builds
+
+========================================

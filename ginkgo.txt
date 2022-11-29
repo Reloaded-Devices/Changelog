@@ -6,6 +6,23 @@ Device: Redmi Note 8/8T (ginkgo/willow)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
 
+===== Reloaded-OS-29-November-2022 =====
+
+Changelog :
+
+* Fixed Ok Google.
+* Addressed some denials.
+* Added Volume Panel QS Tile.
+* Under the hood bug fixes.
+
+Credits :
+
+* Thanks to @ghostrider_reborn @Pascaoto for trees.
+* Thanks to @xterkrs @purplr @bmark240 @henry_markle @mikefrag for testing it.
+
+========================================
+
+
 ===== Reloaded-OS-13-November-2022 =====
 
 Changelog :

@@ -1,0 +1,14 @@
+Device Specific Changelog
+
+Build type: Monthly
+Brand: Xiaomi
+Device: Poco F1 (beryllium)
+Device maintainer: Ninad Patil (@Reignz3)
+
+===== Reloaded-OS-29-November-2022 =====
+
+Changelog :
+
+* Initial build
+
+========================================

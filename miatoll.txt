@@ -5,10 +5,21 @@ Brand: Xiaomi
 Device: Xiaomi Redmi Note 9S/9 Pro/Max/10 lite, Poco M2 Pro (miatoll)
 Device maintainer: Frank Castle (@dreadnoughtOO7)
 
+
+===== Reloaded-OS-02-December-2022 =====
+
+Changelog :
+
+* Fixed WiFi/hotspot connectivity issues for some users
+* Fixed NFC for joyeuse
+* Improved scheduler performance
+* Fixed few memory management issues
+* Misc fixes and improvements.
+
 ===== Reloaded-OS-29-November-2022 =====
 
 Changelog :
 
-* Initial build
+* Initial release
 
 ========================================

@@ -5,6 +5,40 @@ Brand: Xiaomi
 Device: Poco F4/Redmi K40S (munch)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
+===== Reloaded-OS-21-February-2023 =====
+
+* Merged February security patch
+* Rebased source to QPR1 Changes
+* Labelled remaining power supply and wakeup nodes
+* Fixed fp wakeup animation
+* Silenced some useless log spams
+* Disabled SF composition prediction model
+* Implemented Per-App Refresh Rate
+* Added new traffic indicator
+* Fixed statusbar overlapping issue while using face unlock
+* Fixed random lags in some games
+* Fixed google photos video playback issue
+* Added capability to allow tethering to use VPN upstreams
+* Switched to Leica Cam
+* Switched to MIUI display color profiles
+* Updated brightness overlays from stock
+* Updated MIUI blobs to V14.0.1.0.TLMMIXM
+* Updated blobs from LA.UM.9.12.r1-14400-SMxx50.QSSI12.0
+* Enable backpressure propagation
+* Switched to stock cpu input boost settings
+* Improved statusbar height
+* Many other changes which I forgot :D
+
+Note :
+
+* Indian users must use the latest MIUI 14 Indian Firmware.
+* Other region users can flash the latest MIUI 14 Global Firmware
+
+Credits :
+
+* Thanks to @madmax7896 for dt and all the help :)
+* Thanks to @Ludoziel01 @Dendrochronology @sidshroud  for testing it
+
 ===== Reloaded-OS-28-November-2022 =====
 
 Changelog :

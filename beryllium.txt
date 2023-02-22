@@ -5,6 +5,16 @@ Brand: Xiaomi
 Device: Poco F1 (beryllium)
 Device maintainer: Ninad Patil (@Reignz3)
 
+===== Reloaded-OS-22-February-2023 =====
+
+Changelog :
+
+* Merged February security patch
+* Rebased source to QPR1 Changes
+* Added new traffic indicator
+* Added capability to allow tethering to use VPN upstreams
+* Many other changes which I forgot :D
+
 ===== Reloaded-OS-29-November-2022 =====
 
 Changelog :

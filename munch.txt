@@ -5,7 +5,20 @@ Brand: Xiaomi
 Device: Poco F4/Redmi K40S (munch)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
+===== Reloaded-OS-28-February-2023 =====
+
+Changelog (Hotfix Build) :
+
+* Fixed aggressive gamma shift (grey color issue)
+* Fixed Fingerprint bug here and there.
+* Fixed no sound issue in some games.
+* Implemented QS Light Theme
+* Removed duplicate signal indicator
+* Other optimization & fixes
+
 ===== Reloaded-OS-21-February-2023 =====
+
+Changelog :
 
 * Merged February security patch
 * Rebased source to QPR1 Changes

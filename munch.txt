@@ -5,6 +5,26 @@ Brand: Xiaomi
 Device: Poco F4/Redmi K40S (munch)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
+===== Reloaded-OS-29-July-2023 =====
+
+Changelog :
+
+* June security patch
+* Fixed QS lags
+* Fixed issues with stune
+* Updated MIUI blobs to V14.0.3.0.TLMMIXM
+* Fixed LeicaCamera crash in Redmi K40S
+* Updated CarrierConfig from MIUI V14.0.1.0.TLMMIXM
+* Enabled VoNR on Jio 5G
+* Updated System blobs to LA.QSSI.13.0.r1-09700-qssi.0
+* Fixed message send/receive delays in snapchat
+* Silenced OpenGLRenderer logspam
+* Set scrolling friction to 0.006f
+* Improved haptics
+* Many source changes (will write later)
+* Overhaul in source for better performance
+
+
 ===== Reloaded-OS-28-February-2023 =====
 
 Changelog (Hotfix Build) :

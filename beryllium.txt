@@ -5,6 +5,17 @@ Brand: Xiaomi
 Device: Poco F1 (beryllium)
 Device maintainer: Ninad Patil (@Reignz3)
 
+===== Reloaded-OS-29-July-2023 =====
+
+Changelog :
+
+* Merged June security patch
+* Rebased source to QPR3 Changes
+* Updated System blobs to LA.QSSI.13.0.r1-09700-qssi.0
+* Set scrolling friction to 0.006f
+* Fixed crackling audio issue
+* Many other changes which I forgot :D
+
 ===== Reloaded-OS-22-February-2023 =====
 
 Changelog :

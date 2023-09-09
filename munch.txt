@@ -5,6 +5,22 @@ Brand: Xiaomi
 Device: Poco F4/Redmi K40S (munch)
 Device maintainer: Aryaman Srivastava (@Aryaman895)
 
+===== Reloaded-OS-09-September-2023 =====
+
+Note :- This is EOL Build of Reloaded A13
+
+Changelog :
+
+* Fixed an issue where SytemUI crashing after tapping media output icon in Volume Panel
+* Added Network Traffic Indicator
+* Double Tap Status Bar to Sleep is back
+* Added Smart 5G
+* Fixed issue of notifications in landscape mode
+* Added Dolby Atmos Support (thanks to @madmax)
+* Fixed issue of themed icons not loading
+* KSU Supported now (Separate from build, download kernel from telegram group @reloadedmunch)
+* Under the hood improvements & bug fixes
+
 ===== Reloaded-OS-29-July-2023 =====
 
 Changelog :
